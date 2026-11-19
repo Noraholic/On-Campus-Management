@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/screens/admins/admin_screens/dashboard.dart';
+import 'package:oncampus_system/screens/admins/admin_screens/dashboard.dart';
 import 'package:get/get.dart';
 
 class LoginScreen extends StatelessWidget {

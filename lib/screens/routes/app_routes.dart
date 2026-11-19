@@ -1,5 +1,5 @@
-import 'package:flutter_application_1/screens/admins/admin_screens/dashboard.dart';
-import 'package:flutter_application_1/screens/authentication/login.dart';
+import 'package:oncampus_system/screens/admins/admin_screens/dashboard.dart';
+import 'package:oncampus_system/screens/authentication/login.dart';
 import 'package:get/get.dart';
 
 class AppRoutes {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/screens/routes/app_routes.dart';
+import 'package:oncampus_system/screens/routes/app_routes.dart';
 import 'package:get/get.dart';
 
 void main(){
