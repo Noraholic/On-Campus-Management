@@ -2,7 +2,7 @@ import 'package:material_ui/material_ui.dart';
 import 'package:oncampus_system/screens/routes/app_routes.dart';
 import 'package:get/get.dart';
 
-void main(){
+void main() {
   runApp(const MyApp());
 }
 
